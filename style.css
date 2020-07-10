@@ -411,6 +411,7 @@ border-radius: 44%;
     .infoHeader h1{
         font-size: 1.6rem;
         margin-top:2%;
+        padding-top: 15%;
     }
     .infocards{
         display: flex;
